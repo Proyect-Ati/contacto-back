@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "nodemon src/main.ts"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "pg": "^8.16.3",
+    "ts-node": "^10.9.2",
+    "typeorm": "^0.3.25"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
